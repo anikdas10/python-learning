@@ -9,7 +9,7 @@ guesses = 0
 is_running = True
 
 print("Python Number Guessing Game")
-print(f"Select a number between {lowest_num} amd {highest_num}")
+print(f"Select a number between {lowest_num} and {highest_num}")
 
 while is_running:
     
